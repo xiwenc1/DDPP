@@ -27,8 +27,7 @@ torchvision==0.14.1
   volume={31},
   year={2018}
 }
-```
-``` @article{GPBV19,
+ @article{GPBV19,
   author = {Gautier, Guillaume and Polito, Guillermo and Bardenet, R{\'{e}}mi and Valko, Michal},
   journal = {Journal of Machine Learning Research - Machine Learning Open Source Software (JMLR-MLOSS)},
   title = {{DPPy: DPP Sampling with Python}},
